@@ -1,0 +1,1001 @@
+Country,City,Category,Vendor,Sales,Units_Sold,Year,Month
+UK,London,Furniture,Vendor_E,12284,615,2023,3
+UK,Birmingham,Furniture,Vendor_E,45131,872,2024,6
+China,Shanghai,Grocery,Vendor_B,6311,956,2022,1
+Japan,Osaka,Automobile,Vendor_D,28480,561,2024,11
+Japan,Yokohama,Furniture,Vendor_D,2267,832,2022,3
+China,Shenzhen,Automobile,Vendor_A,15502,274,2022,12
+India,Delhi,Electronics,Vendor_B,3612,898,2024,12
+UK,London,Furniture,Vendor_A,27531,562,2023,6
+Australia,Melbourne,Grocery,Vendor_E,46758,402,2023,12
+India,Delhi,Grocery,Vendor_D,2016,702,2022,2
+China,Shanghai,Electronics,Vendor_D,40099,380,2022,9
+USA,New York,Electronics,Vendor_A,3027,648,2024,11
+Brazil,São Paulo,Furniture,Vendor_C,13666,773,2023,7
+Japan,Tokyo,Grocery,Vendor_A,31535,780,2023,1
+UK,Birmingham,Automobile,Vendor_C,20115,872,2023,11
+Brazil,São Paulo,Furniture,Vendor_E,9110,462,2024,1
+China,Shanghai,Furniture,Vendor_A,1206,15,2023,10
+Brazil,Brasília,Electronics,Vendor_D,46151,900,2023,5
+UK,Birmingham,Automobile,Vendor_C,34827,525,2024,11
+Brazil,Rio de Janeiro,Grocery,Vendor_B,44689,557,2023,9
+China,Shanghai,Grocery,Vendor_D,47699,556,2023,11
+Japan,Yokohama,Grocery,Vendor_A,45262,190,2022,1
+France,Marseille,Electronics,Vendor_D,10474,359,2023,8
+France,Lyon,Automobile,Vendor_A,33562,234,2024,11
+Australia,Sydney,Grocery,Vendor_A,47576,442,2023,7
+India,Bengaluru,Electronics,Vendor_E,21080,952,2022,11
+USA,Los Angeles,Clothing,Vendor_D,47645,855,2022,1
+USA,Chicago,Clothing,Vendor_E,39559,710,2024,4
+UK,Birmingham,Furniture,Vendor_A,26342,294,2022,4
+India,Delhi,Furniture,Vendor_A,28848,124,2024,6
+Brazil,Brasília,Grocery,Vendor_C,35754,511,2024,4
+UK,London,Electronics,Vendor_B,12111,641,2024,12
+France,Paris,Clothing,Vendor_B,31306,263,2023,9
+Germany,Berlin,Clothing,Vendor_A,39191,254,2022,5
+UK,London,Electronics,Vendor_C,43642,816,2024,4
+Canada,Vancouver,Electronics,Vendor_D,13874,625,2023,8
+Germany,Hamburg,Furniture,Vendor_A,17482,153,2022,2
+India,Delhi,Furniture,Vendor_E,47760,996,2022,4
+USA,Los Angeles,Automobile,Vendor_D,23399,392,2024,3
+USA,New York,Grocery,Vendor_C,41818,470,2024,6
+Australia,Melbourne,Automobile,Vendor_C,11677,776,2024,11
+India,Mumbai,Electronics,Vendor_D,40790,960,2022,5
+Brazil,Brasília,Electronics,Vendor_A,19589,477,2023,5
+Australia,Brisbane,Grocery,Vendor_A,34828,280,2022,1
+China,Shenzhen,Furniture,Vendor_D,1190,253,2022,7
+USA,Chicago,Clothing,Vendor_A,33745,735,2023,10
+Brazil,Rio de Janeiro,Clothing,Vendor_B,17538,490,2023,10
+USA,New York,Electronics,Vendor_C,13533,176,2024,10
+UK,Manchester,Furniture,Vendor_B,30592,408,2022,12
+Japan,Yokohama,Electronics,Vendor_D,5780,20,2022,8
+Brazil,Brasília,Grocery,Vendor_B,14121,800,2024,6
+Brazil,São Paulo,Clothing,Vendor_E,23677,314,2023,6
+USA,Los Angeles,Furniture,Vendor_D,28236,993,2022,12
+China,Shenzhen,Grocery,Vendor_E,33093,47,2024,7
+Canada,Toronto,Clothing,Vendor_D,47185,670,2024,1
+Canada,Montreal,Furniture,Vendor_D,38945,951,2023,5
+Japan,Tokyo,Electronics,Vendor_D,10204,641,2023,10
+USA,Chicago,Clothing,Vendor_A,46543,237,2022,1
+UK,Birmingham,Automobile,Vendor_E,9130,76,2023,3
+China,Shanghai,Electronics,Vendor_E,10435,69,2024,1
+Germany,Berlin,Grocery,Vendor_B,36247,341,2024,4
+USA,Los Angeles,Automobile,Vendor_B,24049,758,2022,4
+India,Bengaluru,Clothing,Vendor_B,45690,442,2022,8
+China,Beijing,Grocery,Vendor_B,30168,988,2024,4
+Canada,Vancouver,Furniture,Vendor_D,27144,929,2022,3
+China,Shenzhen,Electronics,Vendor_A,47247,842,2024,12
+India,Mumbai,Furniture,Vendor_B,35850,727,2022,10
+Canada,Toronto,Clothing,Vendor_B,10817,418,2024,9
+UK,Manchester,Automobile,Vendor_B,27092,75,2022,8
+Germany,Berlin,Automobile,Vendor_E,28384,676,2023,5
+France,Marseille,Electronics,Vendor_C,21463,548,2023,1
+UK,Birmingham,Automobile,Vendor_D,37208,695,2022,7
+France,Marseille,Electronics,Vendor_A,45912,62,2022,6
+Brazil,São Paulo,Grocery,Vendor_D,8400,915,2022,7
+Germany,Munich,Clothing,Vendor_E,38259,25,2024,5
+Germany,Berlin,Electronics,Vendor_E,25244,42,2023,7
+Japan,Tokyo,Furniture,Vendor_E,38098,843,2023,12
+France,Lyon,Clothing,Vendor_D,8056,253,2023,7
+Canada,Vancouver,Electronics,Vendor_B,24322,634,2023,5
+China,Shanghai,Furniture,Vendor_E,27432,342,2022,7
+France,Paris,Grocery,Vendor_D,36909,252,2024,3
+Australia,Brisbane,Furniture,Vendor_B,29178,39,2023,3
+India,Delhi,Clothing,Vendor_D,14116,895,2022,7
+USA,Chicago,Automobile,Vendor_D,1504,191,2022,9
+Canada,Toronto,Automobile,Vendor_B,37395,685,2022,5
+Australia,Sydney,Furniture,Vendor_D,22732,676,2024,3
+Germany,Berlin,Clothing,Vendor_A,39413,143,2024,1
+China,Shanghai,Furniture,Vendor_A,8114,12,2023,8
+Australia,Sydney,Clothing,Vendor_D,37487,698,2023,12
+China,Beijing,Grocery,Vendor_C,48605,959,2022,9
+USA,New York,Grocery,Vendor_E,36547,752,2022,3
+Australia,Melbourne,Furniture,Vendor_E,11136,450,2023,8
+India,Bengaluru,Automobile,Vendor_E,2015,801,2023,1
+India,Bengaluru,Electronics,Vendor_C,24833,63,2022,6
+USA,New York,Electronics,Vendor_B,11344,99,2024,1
+China,Shenzhen,Grocery,Vendor_A,33606,645,2023,3
+China,Shenzhen,Automobile,Vendor_E,11916,714,2023,3
+USA,New York,Electronics,Vendor_A,46106,685,2022,4
+USA,New York,Clothing,Vendor_D,48198,72,2024,10
+Japan,Osaka,Furniture,Vendor_C,33049,268,2022,6
+China,Shanghai,Furniture,Vendor_A,23928,624,2024,7
+China,Beijing,Clothing,Vendor_C,16781,704,2023,6
+India,Delhi,Clothing,Vendor_C,11209,308,2022,6
+USA,Chicago,Grocery,Vendor_B,44088,133,2022,4
+Japan,Tokyo,Clothing,Vendor_A,20963,852,2022,2
+Australia,Sydney,Clothing,Vendor_E,40037,747,2024,11
+Brazil,Brasília,Electronics,Vendor_C,12637,912,2022,3
+Brazil,Brasília,Automobile,Vendor_B,29732,634,2024,3
+China,Beijing,Clothing,Vendor_D,38545,829,2023,5
+Australia,Sydney,Automobile,Vendor_A,17907,346,2023,2
+USA,Los Angeles,Clothing,Vendor_E,17282,73,2023,9
+France,Lyon,Furniture,Vendor_E,5432,26,2022,8
+USA,Chicago,Automobile,Vendor_D,1302,639,2023,10
+UK,Manchester,Clothing,Vendor_E,40577,526,2024,8
+Brazil,Brasília,Furniture,Vendor_C,39638,508,2022,2
+Japan,Osaka,Furniture,Vendor_C,36854,192,2022,7
+China,Shanghai,Electronics,Vendor_A,30926,86,2023,12
+France,Paris,Automobile,Vendor_D,7168,580,2023,3
+France,Paris,Clothing,Vendor_D,27069,34,2024,8
+Canada,Toronto,Grocery,Vendor_C,16913,425,2022,6
+Germany,Hamburg,Clothing,Vendor_C,11167,315,2022,6
+China,Beijing,Electronics,Vendor_E,28285,277,2023,6
+UK,Manchester,Furniture,Vendor_A,14046,899,2024,8
+China,Shenzhen,Clothing,Vendor_D,15043,75,2024,6
+Australia,Sydney,Furniture,Vendor_A,1846,715,2023,3
+China,Shanghai,Clothing,Vendor_D,27386,724,2022,4
+USA,Chicago,Electronics,Vendor_B,13941,320,2023,5
+Germany,Berlin,Furniture,Vendor_C,21128,902,2023,8
+Japan,Tokyo,Clothing,Vendor_D,40809,13,2023,4
+USA,Chicago,Automobile,Vendor_A,20216,777,2024,8
+Australia,Brisbane,Furniture,Vendor_A,18988,318,2023,5
+Canada,Montreal,Electronics,Vendor_B,20019,995,2024,1
+Canada,Vancouver,Grocery,Vendor_E,9007,779,2022,5
+Brazil,São Paulo,Automobile,Vendor_E,20282,379,2023,10
+Germany,Berlin,Automobile,Vendor_B,19520,402,2024,8
+Brazil,São Paulo,Electronics,Vendor_A,20096,145,2022,7
+India,Delhi,Automobile,Vendor_C,12302,947,2023,6
+Brazil,Brasília,Furniture,Vendor_B,22951,500,2024,1
+Germany,Hamburg,Furniture,Vendor_D,11789,441,2022,5
+UK,London,Grocery,Vendor_B,33265,517,2024,10
+USA,Los Angeles,Automobile,Vendor_D,7359,948,2024,8
+China,Beijing,Grocery,Vendor_D,4756,130,2024,3
+Brazil,Rio de Janeiro,Furniture,Vendor_C,35884,660,2024,10
+Canada,Vancouver,Clothing,Vendor_C,3443,218,2022,8
+India,Mumbai,Electronics,Vendor_D,28306,460,2022,8
+China,Shenzhen,Clothing,Vendor_A,42563,799,2023,9
+Australia,Brisbane,Automobile,Vendor_A,4797,779,2024,1
+China,Beijing,Clothing,Vendor_D,20256,1,2024,6
+UK,Birmingham,Automobile,Vendor_A,10524,137,2023,4
+France,Paris,Clothing,Vendor_A,41738,575,2022,10
+Australia,Melbourne,Clothing,Vendor_C,37368,640,2024,11
+Brazil,Rio de Janeiro,Electronics,Vendor_D,46765,501,2022,1
+Australia,Melbourne,Grocery,Vendor_B,39356,49,2024,1
+Germany,Berlin,Electronics,Vendor_D,25917,476,2024,8
+USA,Chicago,Electronics,Vendor_E,42949,215,2024,11
+Canada,Montreal,Automobile,Vendor_A,21908,477,2023,8
+Brazil,Rio de Janeiro,Electronics,Vendor_C,49302,194,2023,12
+USA,Los Angeles,Furniture,Vendor_D,13342,871,2024,10
+Japan,Yokohama,Clothing,Vendor_D,48190,55,2023,7
+Canada,Toronto,Electronics,Vendor_C,48063,983,2024,8
+Australia,Sydney,Automobile,Vendor_C,40986,609,2024,8
+India,Bengaluru,Furniture,Vendor_D,42124,182,2022,7
+India,Bengaluru,Clothing,Vendor_A,3198,85,2024,3
+Germany,Berlin,Grocery,Vendor_B,9705,897,2024,5
+Germany,Munich,Clothing,Vendor_B,30378,471,2024,12
+Germany,Berlin,Automobile,Vendor_A,8083,867,2023,6
+Canada,Toronto,Clothing,Vendor_C,25557,727,2022,2
+Brazil,São Paulo,Electronics,Vendor_B,42196,281,2024,9
+Australia,Melbourne,Furniture,Vendor_D,42401,29,2022,2
+UK,London,Furniture,Vendor_B,27665,356,2022,6
+India,Mumbai,Automobile,Vendor_A,13875,599,2022,10
+Australia,Sydney,Furniture,Vendor_A,16646,646,2024,8
+India,Mumbai,Electronics,Vendor_E,9646,906,2022,1
+Japan,Tokyo,Grocery,Vendor_B,37397,576,2023,12
+Australia,Brisbane,Electronics,Vendor_C,22172,292,2024,10
+China,Shenzhen,Furniture,Vendor_D,26712,187,2024,8
+Brazil,Rio de Janeiro,Clothing,Vendor_E,24863,289,2023,4
+Germany,Munich,Furniture,Vendor_D,16850,849,2023,11
+India,Mumbai,Clothing,Vendor_B,2524,73,2022,8
+USA,New York,Electronics,Vendor_E,10130,616,2023,9
+UK,Birmingham,Furniture,Vendor_B,35020,108,2024,6
+India,Bengaluru,Automobile,Vendor_D,5090,817,2022,1
+Japan,Tokyo,Electronics,Vendor_D,2341,592,2024,8
+China,Beijing,Automobile,Vendor_A,12918,571,2023,9
+Japan,Yokohama,Clothing,Vendor_A,13182,794,2022,6
+Japan,Yokohama,Automobile,Vendor_A,12122,688,2023,11
+UK,London,Clothing,Vendor_D,26510,995,2023,11
+Japan,Yokohama,Electronics,Vendor_C,36435,188,2022,2
+Brazil,São Paulo,Furniture,Vendor_B,21662,983,2024,8
+USA,New York,Electronics,Vendor_E,28345,161,2022,10
+India,Bengaluru,Furniture,Vendor_B,1545,414,2024,7
+India,Bengaluru,Furniture,Vendor_D,46084,958,2022,5
+France,Marseille,Electronics,Vendor_B,40837,921,2024,7
+Germany,Berlin,Electronics,Vendor_A,3050,429,2023,8
+India,Delhi,Automobile,Vendor_A,26280,949,2023,9
+USA,New York,Grocery,Vendor_D,44194,805,2022,5
+Australia,Brisbane,Furniture,Vendor_E,15561,153,2024,4
+Germany,Munich,Grocery,Vendor_E,16934,310,2022,3
+Japan,Yokohama,Clothing,Vendor_A,18320,753,2023,3
+Canada,Vancouver,Automobile,Vendor_E,9245,47,2024,1
+France,Marseille,Grocery,Vendor_B,31448,573,2024,10
+Brazil,Rio de Janeiro,Clothing,Vendor_A,48319,3,2024,6
+Canada,Toronto,Electronics,Vendor_A,38443,910,2022,2
+France,Marseille,Furniture,Vendor_D,33284,649,2024,9
+India,Delhi,Electronics,Vendor_A,16585,984,2024,6
+Canada,Montreal,Automobile,Vendor_B,42873,454,2022,12
+China,Beijing,Electronics,Vendor_B,10516,224,2023,3
+Japan,Yokohama,Clothing,Vendor_C,27572,749,2022,6
+Canada,Montreal,Grocery,Vendor_A,32290,571,2022,11
+France,Paris,Clothing,Vendor_D,21670,667,2023,12
+UK,London,Furniture,Vendor_E,10017,761,2024,7
+Japan,Osaka,Furniture,Vendor_E,37509,551,2024,2
+Germany,Hamburg,Automobile,Vendor_E,27123,295,2023,11
+USA,New York,Electronics,Vendor_B,13987,448,2022,3
+Australia,Brisbane,Clothing,Vendor_A,43207,994,2024,12
+China,Beijing,Grocery,Vendor_D,19271,484,2023,4
+USA,Los Angeles,Electronics,Vendor_B,10077,705,2023,10
+Canada,Montreal,Clothing,Vendor_B,24821,704,2024,12
+Germany,Munich,Furniture,Vendor_D,36196,460,2024,11
+USA,Los Angeles,Furniture,Vendor_C,30241,983,2023,2
+India,Mumbai,Grocery,Vendor_A,24650,397,2022,7
+UK,London,Automobile,Vendor_C,24411,800,2023,4
+Australia,Brisbane,Furniture,Vendor_C,45413,748,2022,5
+China,Shenzhen,Grocery,Vendor_C,33196,387,2024,1
+Japan,Osaka,Clothing,Vendor_E,49290,832,2022,9
+Canada,Vancouver,Grocery,Vendor_C,35375,60,2023,9
+USA,New York,Automobile,Vendor_C,47765,562,2024,3
+China,Shanghai,Furniture,Vendor_D,1526,153,2023,7
+USA,Los Angeles,Grocery,Vendor_D,35531,521,2023,9
+Australia,Melbourne,Automobile,Vendor_E,36201,344,2024,1
+Canada,Toronto,Clothing,Vendor_B,18773,495,2024,6
+France,Paris,Grocery,Vendor_A,31087,779,2023,3
+Canada,Toronto,Electronics,Vendor_D,39559,463,2023,6
+Germany,Berlin,Clothing,Vendor_B,7368,801,2022,1
+Germany,Hamburg,Clothing,Vendor_B,11361,143,2023,10
+UK,London,Furniture,Vendor_E,39850,635,2023,9
+Australia,Sydney,Electronics,Vendor_B,26291,264,2023,12
+Germany,Hamburg,Furniture,Vendor_C,47163,208,2023,10
+Australia,Melbourne,Furniture,Vendor_A,30545,14,2024,2
+Australia,Brisbane,Grocery,Vendor_E,2560,301,2024,10
+Brazil,Brasília,Grocery,Vendor_E,19311,733,2024,5
+UK,Birmingham,Grocery,Vendor_B,11181,914,2024,6
+China,Beijing,Furniture,Vendor_C,15025,755,2024,6
+USA,Chicago,Grocery,Vendor_A,8005,725,2024,10
+Canada,Toronto,Grocery,Vendor_D,26963,382,2023,1
+Brazil,São Paulo,Grocery,Vendor_B,32860,866,2023,2
+Germany,Hamburg,Clothing,Vendor_C,18778,186,2023,12
+Brazil,São Paulo,Clothing,Vendor_E,20342,737,2024,10
+Canada,Vancouver,Clothing,Vendor_D,1525,334,2023,7
+China,Beijing,Automobile,Vendor_A,36133,502,2022,8
+UK,London,Grocery,Vendor_B,4814,838,2022,11
+France,Paris,Grocery,Vendor_B,44006,449,2022,7
+Japan,Yokohama,Clothing,Vendor_E,12083,862,2022,1
+China,Shenzhen,Grocery,Vendor_A,44320,576,2023,4
+France,Marseille,Automobile,Vendor_E,16563,165,2022,1
+Canada,Montreal,Grocery,Vendor_C,35707,882,2023,2
+France,Marseille,Automobile,Vendor_D,1281,797,2022,7
+Brazil,Rio de Janeiro,Automobile,Vendor_E,38946,837,2022,1
+Brazil,Rio de Janeiro,Grocery,Vendor_B,42235,693,2023,8
+India,Mumbai,Clothing,Vendor_E,16398,223,2024,11
+India,Bengaluru,Grocery,Vendor_D,40062,384,2023,4
+India,Delhi,Grocery,Vendor_B,43324,129,2024,8
+Australia,Sydney,Clothing,Vendor_A,48414,119,2023,11
+Japan,Osaka,Clothing,Vendor_B,16504,538,2024,8
+USA,Chicago,Electronics,Vendor_D,36840,147,2024,5
+China,Beijing,Clothing,Vendor_D,5033,704,2023,9
+USA,New York,Electronics,Vendor_E,28208,757,2022,9
+Germany,Hamburg,Automobile,Vendor_D,27213,19,2023,2
+India,Mumbai,Electronics,Vendor_C,18772,331,2022,8
+Australia,Brisbane,Electronics,Vendor_E,4726,65,2023,7
+China,Shenzhen,Grocery,Vendor_E,39360,417,2022,1
+Brazil,Rio de Janeiro,Clothing,Vendor_C,40778,968,2023,10
+India,Delhi,Electronics,Vendor_C,23612,794,2023,6
+China,Beijing,Clothing,Vendor_A,33779,133,2023,5
+Germany,Munich,Furniture,Vendor_B,27987,891,2024,5
+UK,Birmingham,Automobile,Vendor_D,40310,793,2024,3
+Germany,Berlin,Automobile,Vendor_C,47881,334,2022,4
+China,Shanghai,Furniture,Vendor_E,7894,156,2024,8
+Japan,Osaka,Clothing,Vendor_B,45976,589,2023,9
+UK,Birmingham,Grocery,Vendor_B,30734,909,2024,7
+Canada,Toronto,Clothing,Vendor_E,7441,952,2023,7
+Australia,Sydney,Grocery,Vendor_E,14673,559,2024,7
+Australia,Melbourne,Automobile,Vendor_D,29552,26,2022,10
+Canada,Vancouver,Electronics,Vendor_E,32401,584,2022,10
+China,Shanghai,Furniture,Vendor_D,8227,167,2023,9
+India,Bengaluru,Grocery,Vendor_B,4040,439,2023,5
+USA,Chicago,Grocery,Vendor_B,30344,631,2022,1
+Australia,Sydney,Furniture,Vendor_D,41390,160,2024,10
+France,Lyon,Automobile,Vendor_E,8421,921,2023,3
+UK,London,Clothing,Vendor_C,33117,637,2024,9
+USA,Chicago,Grocery,Vendor_C,39467,218,2023,10
+UK,London,Grocery,Vendor_E,46408,676,2024,9
+Canada,Toronto,Furniture,Vendor_A,7704,828,2023,12
+China,Shenzhen,Automobile,Vendor_B,9258,812,2022,10
+Brazil,Rio de Janeiro,Clothing,Vendor_D,20201,614,2022,3
+India,Bengaluru,Grocery,Vendor_D,31137,548,2022,9
+UK,Manchester,Electronics,Vendor_D,30328,400,2024,7
+Brazil,Rio de Janeiro,Automobile,Vendor_D,42323,321,2022,5
+Germany,Hamburg,Clothing,Vendor_A,12023,460,2023,4
+India,Mumbai,Grocery,Vendor_A,6782,114,2022,2
+France,Paris,Clothing,Vendor_C,48864,969,2022,11
+Brazil,Rio de Janeiro,Clothing,Vendor_D,38174,262,2024,6
+Australia,Sydney,Grocery,Vendor_B,37875,239,2022,10
+Australia,Melbourne,Automobile,Vendor_C,12421,216,2023,6
+Brazil,Brasília,Grocery,Vendor_A,13686,405,2024,2
+India,Bengaluru,Clothing,Vendor_D,49895,266,2022,2
+France,Paris,Electronics,Vendor_D,9286,782,2022,6
+Germany,Munich,Furniture,Vendor_A,24429,25,2022,5
+India,Mumbai,Clothing,Vendor_D,17920,79,2022,12
+Germany,Hamburg,Automobile,Vendor_D,36262,390,2022,11
+India,Bengaluru,Furniture,Vendor_C,14828,467,2023,10
+France,Lyon,Furniture,Vendor_B,47332,927,2024,9
+UK,Birmingham,Electronics,Vendor_C,6448,156,2023,3
+UK,London,Grocery,Vendor_D,35406,552,2022,5
+UK,London,Grocery,Vendor_D,13411,422,2024,2
+China,Shenzhen,Automobile,Vendor_C,32238,155,2023,7
+China,Beijing,Automobile,Vendor_B,25282,405,2023,6
+China,Shanghai,Clothing,Vendor_E,31784,13,2022,10
+India,Mumbai,Automobile,Vendor_E,36153,997,2022,4
+USA,Chicago,Electronics,Vendor_D,11634,703,2022,4
+UK,London,Clothing,Vendor_D,26121,564,2023,8
+Brazil,São Paulo,Automobile,Vendor_D,31620,422,2023,5
+Japan,Tokyo,Electronics,Vendor_A,31911,17,2022,9
+USA,Los Angeles,Grocery,Vendor_E,43080,10,2023,10
+Canada,Toronto,Grocery,Vendor_C,28425,776,2024,6
+Canada,Toronto,Electronics,Vendor_D,26431,173,2024,5
+USA,Chicago,Automobile,Vendor_E,29758,43,2022,3
+Canada,Montreal,Electronics,Vendor_E,17531,277,2023,4
+Germany,Munich,Furniture,Vendor_C,29138,442,2022,5
+Australia,Melbourne,Grocery,Vendor_A,18630,648,2022,9
+India,Bengaluru,Clothing,Vendor_C,12824,804,2023,4
+France,Paris,Electronics,Vendor_B,21669,767,2023,10
+China,Shenzhen,Clothing,Vendor_E,43676,160,2024,12
+India,Bengaluru,Clothing,Vendor_A,24953,183,2022,9
+Canada,Montreal,Grocery,Vendor_B,40896,626,2023,4
+Germany,Berlin,Grocery,Vendor_C,34453,113,2022,3
+Japan,Osaka,Electronics,Vendor_D,44950,530,2022,5
+Canada,Vancouver,Grocery,Vendor_C,29927,598,2023,11
+France,Lyon,Grocery,Vendor_E,49908,466,2023,5
+Germany,Munich,Clothing,Vendor_C,47486,88,2022,6
+China,Beijing,Electronics,Vendor_C,9894,630,2024,7
+UK,Birmingham,Electronics,Vendor_E,30806,136,2023,10
+Canada,Toronto,Grocery,Vendor_E,17832,900,2024,10
+India,Bengaluru,Electronics,Vendor_B,35196,896,2023,7
+India,Mumbai,Automobile,Vendor_A,20363,598,2023,10
+Japan,Osaka,Grocery,Vendor_A,14944,418,2022,9
+Germany,Munich,Furniture,Vendor_C,18081,132,2024,4
+Germany,Hamburg,Furniture,Vendor_B,2828,742,2022,6
+Canada,Montreal,Automobile,Vendor_B,27661,942,2022,4
+USA,Chicago,Grocery,Vendor_E,30197,515,2022,10
+UK,Manchester,Clothing,Vendor_B,15226,159,2024,1
+Brazil,Rio de Janeiro,Automobile,Vendor_D,1541,314,2023,5
+Germany,Munich,Automobile,Vendor_D,6469,183,2022,7
+USA,Los Angeles,Grocery,Vendor_A,20194,476,2024,11
+France,Lyon,Automobile,Vendor_A,46253,260,2024,11
+Australia,Brisbane,Grocery,Vendor_C,49998,137,2023,5
+France,Paris,Clothing,Vendor_B,47850,973,2024,1
+Australia,Sydney,Electronics,Vendor_C,19284,563,2022,3
+Japan,Yokohama,Clothing,Vendor_C,30252,349,2022,4
+USA,New York,Clothing,Vendor_E,44363,582,2023,4
+UK,Birmingham,Clothing,Vendor_C,30312,792,2022,4
+Australia,Sydney,Grocery,Vendor_D,38051,569,2024,4
+Canada,Toronto,Grocery,Vendor_E,16261,408,2023,6
+UK,Birmingham,Grocery,Vendor_B,33591,400,2023,10
+France,Paris,Grocery,Vendor_A,31508,228,2024,4
+India,Delhi,Furniture,Vendor_A,16892,196,2023,1
+UK,Manchester,Clothing,Vendor_C,2171,472,2024,7
+China,Shanghai,Clothing,Vendor_D,37727,896,2023,9
+China,Shanghai,Automobile,Vendor_B,29228,131,2024,10
+China,Beijing,Furniture,Vendor_C,23360,853,2022,9
+USA,Los Angeles,Automobile,Vendor_D,26470,490,2022,7
+Australia,Brisbane,Electronics,Vendor_A,10879,573,2022,2
+Japan,Yokohama,Electronics,Vendor_A,22008,610,2023,6
+India,Mumbai,Clothing,Vendor_E,18921,22,2022,2
+Japan,Osaka,Furniture,Vendor_E,4750,86,2024,8
+Australia,Brisbane,Clothing,Vendor_C,2727,243,2024,1
+UK,London,Grocery,Vendor_B,10283,878,2023,8
+Canada,Toronto,Grocery,Vendor_D,1781,923,2022,9
+Canada,Vancouver,Grocery,Vendor_B,30118,66,2022,8
+Brazil,São Paulo,Clothing,Vendor_D,19658,774,2024,4
+UK,London,Furniture,Vendor_B,39314,915,2022,3
+Canada,Vancouver,Grocery,Vendor_D,22800,164,2022,5
+Canada,Montreal,Electronics,Vendor_B,48657,828,2023,12
+India,Bengaluru,Furniture,Vendor_E,1258,283,2023,11
+Canada,Vancouver,Electronics,Vendor_D,20584,520,2022,12
+China,Shanghai,Furniture,Vendor_A,16149,887,2022,7
+China,Beijing,Automobile,Vendor_B,2283,924,2023,10
+UK,Birmingham,Automobile,Vendor_A,44360,196,2022,4
+India,Delhi,Automobile,Vendor_C,16036,476,2022,9
+Germany,Hamburg,Clothing,Vendor_C,17299,377,2024,2
+France,Paris,Clothing,Vendor_C,1587,476,2023,10
+China,Shanghai,Electronics,Vendor_E,19099,546,2022,3
+India,Delhi,Furniture,Vendor_A,19710,176,2023,1
+China,Shenzhen,Furniture,Vendor_C,13576,724,2022,2
+India,Bengaluru,Grocery,Vendor_A,39547,124,2022,8
+UK,Birmingham,Furniture,Vendor_D,34209,921,2024,6
+China,Shenzhen,Electronics,Vendor_E,45333,654,2022,7
+France,Marseille,Grocery,Vendor_E,11449,115,2022,6
+UK,Birmingham,Furniture,Vendor_B,16223,558,2023,4
+China,Shanghai,Furniture,Vendor_C,39429,846,2024,4
+USA,New York,Clothing,Vendor_A,16282,899,2023,3
+France,Paris,Electronics,Vendor_C,14947,375,2022,12
+Brazil,Brasília,Grocery,Vendor_E,15140,676,2022,9
+USA,New York,Furniture,Vendor_E,12240,955,2023,9
+Germany,Munich,Grocery,Vendor_D,15849,873,2022,6
+France,Marseille,Automobile,Vendor_A,10885,268,2024,11
+India,Mumbai,Automobile,Vendor_E,14615,276,2022,3
+USA,New York,Automobile,Vendor_A,20900,905,2024,1
+India,Mumbai,Automobile,Vendor_D,7581,588,2023,9
+Brazil,Rio de Janeiro,Grocery,Vendor_E,17789,232,2022,3
+Australia,Sydney,Automobile,Vendor_C,29803,823,2024,12
+Germany,Hamburg,Grocery,Vendor_E,9770,854,2023,8
+India,Bengaluru,Electronics,Vendor_A,33327,87,2023,6
+Australia,Sydney,Clothing,Vendor_A,7716,780,2023,10
+Canada,Montreal,Grocery,Vendor_B,25000,441,2022,1
+Brazil,Rio de Janeiro,Furniture,Vendor_E,31519,689,2022,6
+USA,Los Angeles,Electronics,Vendor_C,30075,892,2022,10
+UK,London,Automobile,Vendor_A,18087,318,2023,11
+Australia,Melbourne,Electronics,Vendor_A,6463,549,2022,9
+USA,New York,Furniture,Vendor_C,4112,551,2022,11
+Brazil,Brasília,Automobile,Vendor_E,45199,620,2024,12
+Canada,Toronto,Automobile,Vendor_E,45299,445,2022,10
+UK,Manchester,Automobile,Vendor_A,14146,174,2024,7
+USA,Chicago,Grocery,Vendor_B,47737,962,2023,1
+Germany,Hamburg,Automobile,Vendor_C,35542,412,2022,1
+Japan,Yokohama,Electronics,Vendor_B,38822,797,2022,10
+India,Bengaluru,Furniture,Vendor_E,10101,210,2024,6
+France,Paris,Grocery,Vendor_C,20539,454,2024,5
+India,Mumbai,Furniture,Vendor_B,14392,937,2023,12
+Brazil,Brasília,Electronics,Vendor_E,2998,986,2022,5
+USA,Chicago,Electronics,Vendor_A,8461,796,2022,6
+India,Bengaluru,Automobile,Vendor_A,37788,998,2023,12
+India,Bengaluru,Furniture,Vendor_D,40758,41,2024,7
+Canada,Montreal,Clothing,Vendor_C,2141,612,2022,8
+UK,Manchester,Grocery,Vendor_E,17390,196,2022,8
+USA,New York,Grocery,Vendor_C,49796,202,2023,12
+Brazil,Brasília,Furniture,Vendor_C,12120,806,2022,8
+India,Delhi,Electronics,Vendor_D,6744,877,2023,5
+Canada,Montreal,Furniture,Vendor_C,5652,772,2023,11
+Australia,Brisbane,Furniture,Vendor_B,12826,818,2023,11
+China,Shanghai,Clothing,Vendor_E,3169,125,2022,10
+China,Shenzhen,Grocery,Vendor_B,7139,201,2022,11
+Germany,Berlin,Automobile,Vendor_D,28716,165,2022,1
+India,Mumbai,Automobile,Vendor_C,11582,947,2024,10
+India,Mumbai,Furniture,Vendor_B,1340,942,2024,12
+China,Shenzhen,Grocery,Vendor_C,20840,604,2024,8
+Brazil,São Paulo,Clothing,Vendor_C,14283,435,2022,1
+Brazil,Rio de Janeiro,Electronics,Vendor_B,20218,165,2024,5
+Canada,Toronto,Electronics,Vendor_E,44171,886,2024,11
+China,Shanghai,Furniture,Vendor_E,4630,140,2023,5
+Australia,Brisbane,Grocery,Vendor_E,26552,184,2022,10
+Australia,Sydney,Furniture,Vendor_C,38529,304,2023,7
+Japan,Osaka,Furniture,Vendor_A,14527,407,2024,11
+France,Marseille,Clothing,Vendor_A,31386,949,2023,11
+India,Bengaluru,Grocery,Vendor_E,20503,511,2022,8
+Germany,Berlin,Electronics,Vendor_A,16072,864,2024,6
+Brazil,Brasília,Automobile,Vendor_E,26518,494,2022,7
+India,Delhi,Automobile,Vendor_C,37674,566,2023,10
+China,Shanghai,Electronics,Vendor_C,21536,734,2024,3
+Brazil,Rio de Janeiro,Clothing,Vendor_A,12590,542,2024,3
+USA,New York,Automobile,Vendor_A,21620,744,2022,12
+France,Marseille,Electronics,Vendor_D,30218,194,2024,8
+UK,London,Clothing,Vendor_D,9605,991,2023,11
+Brazil,Brasília,Grocery,Vendor_E,45716,992,2023,3
+Australia,Melbourne,Electronics,Vendor_B,25297,380,2023,12
+India,Delhi,Clothing,Vendor_E,11350,927,2023,7
+Brazil,Brasília,Furniture,Vendor_E,24782,565,2024,1
+USA,New York,Automobile,Vendor_E,35324,403,2022,3
+France,Paris,Electronics,Vendor_B,16369,484,2023,4
+Germany,Hamburg,Clothing,Vendor_D,17237,53,2024,6
+Germany,Berlin,Furniture,Vendor_B,10227,631,2024,2
+India,Delhi,Furniture,Vendor_A,15027,561,2024,9
+USA,Los Angeles,Automobile,Vendor_B,4167,726,2023,1
+UK,Manchester,Electronics,Vendor_E,16275,889,2022,12
+France,Paris,Furniture,Vendor_C,6793,428,2023,3
+Brazil,São Paulo,Grocery,Vendor_C,45452,401,2023,7
+Japan,Tokyo,Electronics,Vendor_D,27586,729,2024,10
+UK,London,Automobile,Vendor_C,16372,101,2022,8
+USA,Chicago,Electronics,Vendor_A,13820,852,2024,3
+China,Shanghai,Electronics,Vendor_E,23005,304,2024,12
+France,Marseille,Clothing,Vendor_C,6355,873,2024,9
+India,Mumbai,Automobile,Vendor_D,27654,898,2022,9
+Australia,Brisbane,Electronics,Vendor_D,11860,855,2022,2
+France,Marseille,Grocery,Vendor_B,24554,28,2023,12
+China,Shanghai,Electronics,Vendor_D,45283,235,2024,9
+USA,Los Angeles,Clothing,Vendor_E,3100,586,2023,5
+Australia,Melbourne,Electronics,Vendor_D,38261,138,2024,9
+Brazil,Brasília,Electronics,Vendor_D,37021,884,2022,11
+France,Lyon,Grocery,Vendor_B,27853,833,2024,12
+USA,Los Angeles,Grocery,Vendor_C,33245,693,2023,11
+France,Lyon,Automobile,Vendor_E,30336,33,2024,10
+UK,London,Grocery,Vendor_C,21963,973,2024,4
+Brazil,São Paulo,Furniture,Vendor_A,28606,729,2022,6
+Germany,Munich,Automobile,Vendor_A,3204,610,2023,12
+UK,Manchester,Grocery,Vendor_B,22607,393,2024,5
+Canada,Vancouver,Furniture,Vendor_D,17616,529,2024,10
+UK,Manchester,Electronics,Vendor_B,49152,394,2024,3
+China,Shenzhen,Grocery,Vendor_C,9682,833,2022,4
+Australia,Melbourne,Grocery,Vendor_A,19990,159,2022,2
+Japan,Tokyo,Clothing,Vendor_E,6939,361,2024,8
+Australia,Sydney,Clothing,Vendor_C,45769,15,2022,10
+China,Shanghai,Automobile,Vendor_B,32433,302,2022,3
+Australia,Sydney,Grocery,Vendor_E,28882,620,2022,1
+India,Bengaluru,Grocery,Vendor_D,43565,681,2024,12
+Canada,Montreal,Clothing,Vendor_A,6451,139,2022,9
+India,Bengaluru,Clothing,Vendor_B,1619,883,2022,11
+India,Mumbai,Furniture,Vendor_C,25820,848,2023,2
+UK,London,Clothing,Vendor_D,46550,606,2022,11
+UK,London,Furniture,Vendor_D,29247,754,2023,6
+France,Paris,Clothing,Vendor_D,19020,988,2023,11
+China,Shanghai,Grocery,Vendor_B,21022,456,2024,6
+China,Shenzhen,Electronics,Vendor_E,41386,876,2022,10
+Germany,Berlin,Furniture,Vendor_B,3176,672,2022,7
+USA,Chicago,Grocery,Vendor_D,34396,606,2024,3
+USA,Chicago,Furniture,Vendor_B,20149,17,2023,4
+Germany,Berlin,Furniture,Vendor_B,16417,154,2022,4
+Germany,Munich,Clothing,Vendor_C,10256,105,2022,10
+USA,New York,Clothing,Vendor_E,27536,733,2022,11
+Canada,Montreal,Automobile,Vendor_C,11521,883,2024,12
+UK,Birmingham,Clothing,Vendor_E,5557,132,2024,10
+Germany,Munich,Clothing,Vendor_D,36948,221,2022,3
+UK,Manchester,Grocery,Vendor_A,21954,836,2023,3
+China,Beijing,Furniture,Vendor_C,46095,959,2022,4
+India,Mumbai,Clothing,Vendor_D,17673,953,2022,7
+China,Shenzhen,Automobile,Vendor_E,38726,254,2022,9
+France,Paris,Electronics,Vendor_D,15901,326,2022,9
+Japan,Yokohama,Automobile,Vendor_E,39402,384,2024,6
+Germany,Hamburg,Furniture,Vendor_D,20624,965,2022,7
+Japan,Osaka,Automobile,Vendor_A,26711,411,2024,9
+Australia,Brisbane,Automobile,Vendor_E,19375,753,2024,7
+Japan,Osaka,Furniture,Vendor_B,32486,254,2022,1
+Japan,Osaka,Electronics,Vendor_A,29483,560,2024,9
+China,Beijing,Electronics,Vendor_A,39078,729,2024,4
+USA,New York,Clothing,Vendor_C,24749,1,2024,7
+Japan,Yokohama,Automobile,Vendor_A,37432,418,2024,9
+France,Paris,Grocery,Vendor_D,36060,515,2022,1
+UK,London,Electronics,Vendor_C,10689,783,2023,1
+Brazil,Brasília,Grocery,Vendor_C,19919,78,2023,1
+India,Mumbai,Grocery,Vendor_C,20356,851,2023,9
+USA,New York,Furniture,Vendor_E,19624,453,2024,6
+Canada,Toronto,Furniture,Vendor_C,36531,592,2024,11
+Japan,Tokyo,Grocery,Vendor_D,28798,514,2023,3
+France,Paris,Furniture,Vendor_B,25335,595,2024,2
+Germany,Berlin,Electronics,Vendor_D,20581,565,2024,5
+USA,Los Angeles,Electronics,Vendor_E,11808,924,2023,5
+Australia,Brisbane,Electronics,Vendor_B,17402,726,2022,11
+India,Delhi,Grocery,Vendor_A,47220,84,2023,7
+UK,Manchester,Furniture,Vendor_E,38623,404,2022,8
+India,Bengaluru,Clothing,Vendor_A,30240,392,2023,10
+USA,Los Angeles,Clothing,Vendor_E,26917,681,2022,2
+Japan,Tokyo,Electronics,Vendor_C,23192,204,2024,11
+Brazil,Rio de Janeiro,Clothing,Vendor_A,15114,208,2023,12
+Canada,Vancouver,Clothing,Vendor_C,33182,295,2024,6
+Germany,Munich,Electronics,Vendor_D,30267,483,2024,2
+China,Shanghai,Furniture,Vendor_C,4849,73,2022,6
+France,Marseille,Grocery,Vendor_C,19689,413,2022,3
+Japan,Tokyo,Clothing,Vendor_E,16438,315,2023,3
+China,Shenzhen,Grocery,Vendor_B,19845,25,2022,12
+USA,New York,Automobile,Vendor_D,14318,817,2022,4
+Brazil,São Paulo,Clothing,Vendor_D,12336,237,2023,10
+Australia,Melbourne,Electronics,Vendor_B,17753,795,2023,2
+Brazil,Brasília,Automobile,Vendor_A,30038,271,2022,11
+France,Marseille,Clothing,Vendor_C,30943,860,2022,11
+France,Paris,Clothing,Vendor_B,11451,493,2024,1
+China,Shenzhen,Grocery,Vendor_A,23520,366,2022,11
+India,Bengaluru,Automobile,Vendor_B,28586,830,2023,1
+India,Delhi,Clothing,Vendor_B,27149,639,2024,4
+Canada,Vancouver,Furniture,Vendor_B,1869,833,2024,8
+Canada,Montreal,Clothing,Vendor_A,24624,509,2023,11
+France,Marseille,Electronics,Vendor_D,44803,865,2023,5
+France,Lyon,Furniture,Vendor_E,36585,445,2023,11
+Australia,Melbourne,Grocery,Vendor_B,39506,549,2024,12
+India,Delhi,Furniture,Vendor_B,8352,205,2023,7
+Australia,Brisbane,Electronics,Vendor_C,14261,934,2023,9
+USA,Los Angeles,Automobile,Vendor_E,35800,714,2022,2
+UK,Birmingham,Automobile,Vendor_D,16954,803,2022,1
+Germany,Munich,Clothing,Vendor_A,33828,319,2023,4
+Canada,Toronto,Automobile,Vendor_E,27147,622,2023,1
+Japan,Osaka,Electronics,Vendor_A,40740,137,2023,3
+Brazil,Brasília,Electronics,Vendor_E,33854,465,2024,3
+France,Marseille,Electronics,Vendor_E,28886,677,2024,4
+UK,London,Electronics,Vendor_E,21929,485,2023,12
+India,Delhi,Electronics,Vendor_A,5733,235,2023,3
+Japan,Osaka,Grocery,Vendor_C,44939,674,2022,10
+UK,Birmingham,Furniture,Vendor_D,44370,509,2022,1
+USA,Chicago,Furniture,Vendor_B,38865,449,2022,2
+India,Bengaluru,Automobile,Vendor_A,44937,93,2024,1
+China,Beijing,Automobile,Vendor_B,7160,71,2022,5
+Japan,Tokyo,Furniture,Vendor_B,34584,103,2022,1
+USA,Los Angeles,Electronics,Vendor_C,33130,207,2022,5
+Japan,Tokyo,Grocery,Vendor_A,34272,598,2022,3
+Brazil,Rio de Janeiro,Electronics,Vendor_E,5434,659,2023,9
+Brazil,Brasília,Automobile,Vendor_A,43215,658,2024,2
+Canada,Vancouver,Grocery,Vendor_A,39759,292,2024,12
+Germany,Berlin,Electronics,Vendor_E,37945,834,2022,6
+Germany,Berlin,Furniture,Vendor_B,45764,323,2024,3
+Australia,Melbourne,Furniture,Vendor_D,23010,572,2024,10
+India,Delhi,Electronics,Vendor_A,15683,671,2023,8
+France,Paris,Clothing,Vendor_B,35660,368,2022,7
+Japan,Tokyo,Furniture,Vendor_E,25255,44,2022,11
+UK,London,Grocery,Vendor_E,12705,401,2024,3
+China,Shanghai,Grocery,Vendor_B,45516,757,2023,10
+Japan,Tokyo,Automobile,Vendor_C,33821,528,2024,9
+Canada,Toronto,Furniture,Vendor_B,2629,734,2023,12
+USA,Los Angeles,Clothing,Vendor_B,7539,371,2023,7
+India,Delhi,Electronics,Vendor_A,38102,195,2023,3
+USA,Los Angeles,Automobile,Vendor_D,45948,378,2023,11
+Germany,Munich,Clothing,Vendor_E,34998,388,2024,7
+Australia,Melbourne,Automobile,Vendor_D,1203,161,2022,5
+Australia,Melbourne,Automobile,Vendor_E,26183,675,2024,5
+Canada,Vancouver,Clothing,Vendor_A,3103,366,2024,8
+Canada,Montreal,Automobile,Vendor_E,29901,914,2023,8
+USA,Los Angeles,Automobile,Vendor_C,28923,652,2024,11
+Japan,Yokohama,Automobile,Vendor_C,47754,351,2024,1
+Brazil,Brasília,Furniture,Vendor_E,5594,950,2024,12
+China,Shenzhen,Clothing,Vendor_A,18375,356,2024,11
+Japan,Yokohama,Furniture,Vendor_E,33596,125,2023,3
+France,Paris,Automobile,Vendor_C,11922,450,2023,11
+France,Marseille,Furniture,Vendor_B,7838,540,2022,11
+China,Shenzhen,Automobile,Vendor_D,31257,900,2023,1
+Japan,Osaka,Electronics,Vendor_C,29554,189,2023,11
+UK,Manchester,Clothing,Vendor_C,26515,645,2024,9
+France,Paris,Clothing,Vendor_C,30504,64,2024,4
+USA,Chicago,Grocery,Vendor_B,24470,721,2022,2
+Germany,Hamburg,Electronics,Vendor_C,38930,207,2023,4
+Australia,Brisbane,Grocery,Vendor_B,6213,13,2022,2
+China,Beijing,Clothing,Vendor_D,24989,538,2024,8
+Canada,Montreal,Grocery,Vendor_E,46351,986,2023,1
+Germany,Munich,Furniture,Vendor_E,26530,239,2024,5
+UK,Birmingham,Electronics,Vendor_C,29850,212,2022,10
+USA,Chicago,Electronics,Vendor_E,4805,366,2024,5
+UK,London,Electronics,Vendor_B,33093,925,2024,11
+India,Delhi,Grocery,Vendor_B,47881,763,2023,6
+Canada,Vancouver,Grocery,Vendor_E,20539,899,2022,9
+Canada,Montreal,Furniture,Vendor_E,34629,568,2023,7
+USA,New York,Automobile,Vendor_D,45825,86,2024,2
+Australia,Brisbane,Clothing,Vendor_C,35779,302,2023,5
+Australia,Melbourne,Furniture,Vendor_D,20567,828,2023,7
+USA,New York,Clothing,Vendor_A,31134,106,2022,8
+India,Mumbai,Automobile,Vendor_A,34455,530,2024,12
+Canada,Toronto,Clothing,Vendor_E,44856,32,2022,8
+Germany,Hamburg,Furniture,Vendor_E,15031,201,2024,12
+Australia,Brisbane,Grocery,Vendor_A,33994,48,2023,7
+UK,Birmingham,Electronics,Vendor_E,28500,849,2022,5
+Australia,Brisbane,Automobile,Vendor_A,15523,858,2023,6
+Germany,Munich,Electronics,Vendor_E,2695,187,2023,6
+Canada,Toronto,Furniture,Vendor_D,30932,758,2023,6
+Australia,Brisbane,Electronics,Vendor_C,28529,387,2024,12
+USA,Chicago,Automobile,Vendor_E,20800,127,2022,5
+Japan,Yokohama,Grocery,Vendor_E,16916,639,2023,2
+USA,New York,Electronics,Vendor_D,46536,897,2024,1
+Canada,Vancouver,Clothing,Vendor_C,21588,279,2023,8
+Canada,Montreal,Clothing,Vendor_C,25486,229,2022,12
+France,Paris,Clothing,Vendor_B,10104,286,2024,2
+India,Mumbai,Furniture,Vendor_E,48764,624,2024,1
+Canada,Montreal,Grocery,Vendor_A,32923,714,2024,5
+UK,Manchester,Electronics,Vendor_A,32027,649,2023,1
+Brazil,Brasília,Clothing,Vendor_A,37639,783,2022,9
+France,Marseille,Grocery,Vendor_A,31826,232,2023,3
+UK,Birmingham,Electronics,Vendor_A,44423,506,2022,5
+China,Shenzhen,Clothing,Vendor_E,26068,192,2024,6
+Canada,Toronto,Electronics,Vendor_C,14682,139,2022,5
+Brazil,Rio de Janeiro,Furniture,Vendor_D,11234,273,2023,3
+Canada,Vancouver,Grocery,Vendor_B,10765,119,2022,3
+Germany,Hamburg,Clothing,Vendor_A,12939,58,2022,4
+Japan,Tokyo,Electronics,Vendor_D,39134,700,2023,3
+Japan,Yokohama,Furniture,Vendor_D,5992,938,2023,8
+USA,Chicago,Grocery,Vendor_B,49003,934,2024,9
+Canada,Montreal,Automobile,Vendor_A,41446,802,2024,10
+Canada,Vancouver,Clothing,Vendor_A,10497,916,2023,3
+Brazil,São Paulo,Furniture,Vendor_B,20738,464,2022,3
+France,Paris,Grocery,Vendor_B,14998,162,2024,2
+Germany,Munich,Grocery,Vendor_A,43229,601,2023,3
+Japan,Tokyo,Electronics,Vendor_D,6552,628,2023,5
+USA,Los Angeles,Automobile,Vendor_B,1249,878,2024,9
+China,Beijing,Clothing,Vendor_E,36440,875,2024,7
+Germany,Munich,Clothing,Vendor_E,14026,726,2024,3
+Canada,Vancouver,Clothing,Vendor_A,8347,712,2024,11
+China,Shanghai,Automobile,Vendor_E,34078,549,2024,6
+China,Beijing,Furniture,Vendor_B,25000,360,2024,11
+UK,Manchester,Automobile,Vendor_C,31663,959,2022,6
+Japan,Osaka,Electronics,Vendor_B,23484,696,2024,2
+UK,Birmingham,Grocery,Vendor_A,43571,897,2024,6
+Canada,Toronto,Electronics,Vendor_A,30432,191,2023,6
+Japan,Tokyo,Electronics,Vendor_C,19412,208,2023,1
+USA,Los Angeles,Clothing,Vendor_E,9848,166,2022,6
+Brazil,Rio de Janeiro,Automobile,Vendor_E,10968,415,2022,8
+Brazil,Rio de Janeiro,Automobile,Vendor_B,1406,217,2023,10
+China,Shanghai,Grocery,Vendor_C,31143,754,2023,4
+USA,New York,Automobile,Vendor_D,44894,399,2024,11
+Brazil,São Paulo,Furniture,Vendor_C,19323,612,2024,10
+Canada,Toronto,Automobile,Vendor_A,48466,50,2022,3
+Germany,Berlin,Clothing,Vendor_E,40791,463,2024,4
+Canada,Montreal,Grocery,Vendor_D,38292,858,2022,2
+Brazil,Rio de Janeiro,Furniture,Vendor_A,4558,557,2023,8
+UK,Birmingham,Clothing,Vendor_E,40887,995,2023,10
+Australia,Melbourne,Clothing,Vendor_E,17244,733,2024,12
+India,Bengaluru,Automobile,Vendor_E,11589,902,2023,12
+Germany,Berlin,Clothing,Vendor_B,29430,424,2023,9
+China,Shanghai,Grocery,Vendor_C,13734,835,2023,11
+USA,Chicago,Grocery,Vendor_A,34576,979,2022,6
+Canada,Vancouver,Furniture,Vendor_A,21435,150,2024,11
+Japan,Yokohama,Electronics,Vendor_D,3123,599,2023,1
+India,Mumbai,Furniture,Vendor_A,26416,791,2023,3
+China,Shenzhen,Grocery,Vendor_A,36739,994,2022,8
+France,Lyon,Clothing,Vendor_A,29141,314,2023,7
+France,Paris,Furniture,Vendor_D,27671,738,2023,3
+China,Beijing,Automobile,Vendor_A,3941,576,2023,12
+France,Lyon,Clothing,Vendor_C,39218,784,2022,3
+India,Bengaluru,Automobile,Vendor_C,2881,656,2023,9
+Japan,Tokyo,Grocery,Vendor_B,49601,827,2024,11
+Canada,Montreal,Grocery,Vendor_D,17524,766,2024,1
+USA,New York,Automobile,Vendor_B,38583,804,2023,12
+China,Shanghai,Clothing,Vendor_E,35172,293,2022,3
+Germany,Munich,Grocery,Vendor_C,13748,618,2022,5
+UK,London,Grocery,Vendor_A,5933,831,2023,6
+India,Mumbai,Grocery,Vendor_E,35578,471,2023,11
+Australia,Sydney,Grocery,Vendor_D,31062,932,2022,7
+Brazil,Brasília,Grocery,Vendor_A,42107,9,2023,2
+China,Shenzhen,Furniture,Vendor_E,34045,954,2022,12
+India,Mumbai,Clothing,Vendor_A,47686,135,2024,10
+Brazil,São Paulo,Automobile,Vendor_E,36230,339,2024,5
+India,Bengaluru,Grocery,Vendor_B,36131,984,2022,7
+China,Shenzhen,Furniture,Vendor_A,38770,887,2022,4
+UK,Manchester,Clothing,Vendor_D,36422,721,2022,11
+USA,Chicago,Grocery,Vendor_E,24238,386,2023,8
+Germany,Munich,Clothing,Vendor_C,45327,818,2024,11
+Brazil,Brasília,Clothing,Vendor_C,16216,182,2023,1
+India,Delhi,Grocery,Vendor_D,49920,96,2022,10
+Japan,Tokyo,Automobile,Vendor_A,42513,303,2022,6
+Australia,Sydney,Grocery,Vendor_B,30978,553,2023,10
+France,Lyon,Grocery,Vendor_A,22067,858,2022,10
+France,Lyon,Grocery,Vendor_D,22057,321,2024,12
+Germany,Hamburg,Furniture,Vendor_B,27270,569,2023,2
+China,Beijing,Automobile,Vendor_B,20053,846,2022,2
+Canada,Vancouver,Clothing,Vendor_B,21811,150,2023,4
+Germany,Hamburg,Automobile,Vendor_D,3776,96,2022,4
+Germany,Hamburg,Furniture,Vendor_E,10615,699,2022,4
+China,Shenzhen,Grocery,Vendor_A,8148,599,2023,7
+USA,New York,Grocery,Vendor_B,41708,109,2024,4
+UK,Birmingham,Furniture,Vendor_A,35036,287,2024,1
+Brazil,Rio de Janeiro,Automobile,Vendor_C,44298,645,2022,6
+France,Marseille,Clothing,Vendor_E,22316,508,2024,9
+Canada,Montreal,Electronics,Vendor_D,47934,608,2024,7
+Australia,Brisbane,Automobile,Vendor_B,3575,611,2023,3
+USA,Chicago,Clothing,Vendor_E,16470,129,2022,2
+Germany,Hamburg,Automobile,Vendor_C,4744,131,2024,5
+Germany,Berlin,Grocery,Vendor_A,14990,772,2024,6
+Brazil,Rio de Janeiro,Furniture,Vendor_E,42612,909,2022,6
+Germany,Munich,Automobile,Vendor_E,11450,968,2023,10
+Brazil,Rio de Janeiro,Furniture,Vendor_E,34691,137,2024,7
+Brazil,Brasília,Furniture,Vendor_B,47121,411,2024,6
+India,Bengaluru,Furniture,Vendor_D,5837,369,2023,12
+USA,Chicago,Furniture,Vendor_D,19350,376,2024,11
+UK,London,Grocery,Vendor_A,33651,666,2023,12
+Brazil,São Paulo,Automobile,Vendor_E,34367,720,2022,9
+Australia,Melbourne,Electronics,Vendor_D,16989,260,2024,1
+UK,Manchester,Clothing,Vendor_C,31133,215,2022,7
+India,Bengaluru,Electronics,Vendor_B,18304,54,2022,3
+USA,Los Angeles,Furniture,Vendor_D,34040,963,2023,4
+Canada,Toronto,Furniture,Vendor_B,31254,181,2023,4
+Japan,Osaka,Electronics,Vendor_B,37358,278,2022,2
+USA,New York,Clothing,Vendor_B,18848,391,2022,2
+Australia,Brisbane,Grocery,Vendor_A,36328,748,2022,12
+India,Mumbai,Grocery,Vendor_C,9693,730,2022,7
+India,Mumbai,Automobile,Vendor_C,33263,765,2024,4
+India,Bengaluru,Furniture,Vendor_C,49785,156,2022,3
+Germany,Berlin,Electronics,Vendor_B,25495,39,2022,4
+Australia,Brisbane,Clothing,Vendor_D,7411,222,2023,10
+China,Shenzhen,Automobile,Vendor_A,44390,442,2023,7
+Japan,Tokyo,Grocery,Vendor_C,10316,914,2024,5
+France,Lyon,Electronics,Vendor_B,27123,630,2023,11
+UK,London,Automobile,Vendor_D,43742,541,2022,11
+China,Shenzhen,Clothing,Vendor_D,6606,885,2023,2
+Brazil,Brasília,Furniture,Vendor_B,27347,422,2022,10
+USA,Chicago,Clothing,Vendor_C,5675,891,2023,4
+USA,Los Angeles,Automobile,Vendor_B,20627,383,2023,10
+France,Marseille,Electronics,Vendor_E,10782,763,2024,7
+Brazil,Brasília,Electronics,Vendor_A,42913,429,2023,5
+UK,London,Clothing,Vendor_E,42439,443,2023,11
+UK,Manchester,Automobile,Vendor_C,27478,387,2024,10
+Brazil,Rio de Janeiro,Grocery,Vendor_E,33092,147,2024,8
+Canada,Montreal,Clothing,Vendor_D,38038,900,2024,5
+Brazil,São Paulo,Automobile,Vendor_C,7477,333,2022,9
+UK,Birmingham,Clothing,Vendor_A,35581,408,2022,5
+USA,Los Angeles,Furniture,Vendor_A,37824,306,2022,1
+Japan,Osaka,Electronics,Vendor_D,3936,791,2024,6
+China,Shenzhen,Electronics,Vendor_B,28281,315,2024,9
+Brazil,Brasília,Electronics,Vendor_D,8235,814,2022,2
+Brazil,Rio de Janeiro,Automobile,Vendor_E,41644,537,2023,2
+India,Delhi,Clothing,Vendor_E,33113,175,2024,12
+India,Bengaluru,Electronics,Vendor_C,22650,35,2024,5
+Japan,Osaka,Automobile,Vendor_D,10943,233,2022,3
+UK,Manchester,Furniture,Vendor_B,21918,732,2024,1
+Brazil,Brasília,Grocery,Vendor_E,6296,37,2023,3
+India,Bengaluru,Furniture,Vendor_E,16997,343,2023,6
+Brazil,São Paulo,Grocery,Vendor_E,3841,744,2022,9
+France,Paris,Furniture,Vendor_C,38782,352,2023,11
+India,Bengaluru,Electronics,Vendor_E,32334,919,2024,12
+India,Bengaluru,Furniture,Vendor_B,22638,50,2024,6
+France,Paris,Automobile,Vendor_A,41734,533,2023,8
+USA,Chicago,Grocery,Vendor_E,13021,629,2022,12
+France,Lyon,Electronics,Vendor_B,43481,297,2023,11
+France,Paris,Automobile,Vendor_C,19061,834,2024,7
+China,Shenzhen,Electronics,Vendor_C,46201,960,2022,4
+Canada,Toronto,Furniture,Vendor_A,23499,153,2022,1
+India,Mumbai,Clothing,Vendor_E,47994,919,2024,9
+Australia,Brisbane,Electronics,Vendor_A,38344,930,2024,2
+India,Mumbai,Automobile,Vendor_E,41581,21,2023,6
+France,Marseille,Clothing,Vendor_B,48645,756,2023,12
+Canada,Toronto,Electronics,Vendor_D,46246,168,2022,9
+Japan,Tokyo,Furniture,Vendor_A,8987,69,2024,5
+Germany,Munich,Clothing,Vendor_B,37444,525,2023,10
+France,Marseille,Electronics,Vendor_E,39498,485,2022,10
+Germany,Berlin,Grocery,Vendor_E,30769,508,2022,4
+UK,Manchester,Grocery,Vendor_E,18558,669,2023,10
+Brazil,São Paulo,Electronics,Vendor_B,26363,748,2024,1
+India,Mumbai,Automobile,Vendor_B,12110,732,2023,7
+Australia,Brisbane,Clothing,Vendor_C,30265,587,2023,4
+China,Shenzhen,Furniture,Vendor_D,1893,367,2023,8
+France,Marseille,Electronics,Vendor_D,32670,547,2024,1
+Brazil,Rio de Janeiro,Grocery,Vendor_C,27928,985,2024,6
+Canada,Montreal,Clothing,Vendor_D,33335,500,2024,10
+USA,Chicago,Automobile,Vendor_E,34798,155,2023,2
+Germany,Berlin,Clothing,Vendor_E,20581,921,2024,1
+Canada,Montreal,Clothing,Vendor_C,8037,482,2024,11
+Australia,Sydney,Furniture,Vendor_B,48124,566,2024,11
+Canada,Montreal,Grocery,Vendor_C,31022,905,2022,1
+Canada,Vancouver,Grocery,Vendor_C,21213,237,2024,11
+USA,Chicago,Grocery,Vendor_A,47202,843,2023,5
+USA,Los Angeles,Grocery,Vendor_E,23504,699,2024,1
+Brazil,São Paulo,Furniture,Vendor_D,39333,611,2023,1
+Canada,Montreal,Clothing,Vendor_B,49629,718,2023,6
+India,Bengaluru,Furniture,Vendor_E,39248,866,2022,4
+USA,New York,Electronics,Vendor_B,47525,79,2023,9
+India,Delhi,Automobile,Vendor_E,22029,14,2024,6
+India,Mumbai,Automobile,Vendor_A,12357,93,2022,5
+Australia,Brisbane,Automobile,Vendor_B,20065,128,2022,11
+USA,Los Angeles,Clothing,Vendor_D,7054,482,2023,6
+USA,Chicago,Electronics,Vendor_E,24620,660,2024,9
+China,Beijing,Automobile,Vendor_B,25426,612,2023,6
+Australia,Melbourne,Automobile,Vendor_C,36693,609,2023,7
+USA,Chicago,Electronics,Vendor_A,1215,132,2022,2
+USA,Los Angeles,Electronics,Vendor_D,41635,582,2023,2
+UK,Manchester,Clothing,Vendor_A,48116,440,2023,6
+USA,New York,Furniture,Vendor_E,47032,79,2023,7
+Australia,Brisbane,Clothing,Vendor_B,42785,708,2024,7
+Canada,Vancouver,Clothing,Vendor_B,17576,68,2023,1
+Germany,Hamburg,Furniture,Vendor_E,36289,846,2022,11
+Japan,Yokohama,Furniture,Vendor_D,39871,411,2023,8
+USA,Los Angeles,Electronics,Vendor_A,5631,384,2024,7
+Brazil,Rio de Janeiro,Electronics,Vendor_D,26186,574,2023,6
+Germany,Hamburg,Automobile,Vendor_C,7568,554,2023,1
+India,Bengaluru,Clothing,Vendor_A,35085,398,2024,9
+Canada,Vancouver,Furniture,Vendor_C,15904,940,2023,3
+India,Mumbai,Electronics,Vendor_D,36525,933,2022,3
+USA,Chicago,Automobile,Vendor_E,43511,492,2024,6
+Canada,Vancouver,Grocery,Vendor_A,45643,586,2024,1
+France,Marseille,Grocery,Vendor_E,20782,108,2024,2
+Germany,Hamburg,Furniture,Vendor_B,42993,434,2022,1
+China,Shanghai,Electronics,Vendor_D,9320,438,2024,5
+Japan,Osaka,Furniture,Vendor_B,18285,45,2022,7
+UK,Manchester,Automobile,Vendor_D,7937,97,2024,4
+UK,Birmingham,Electronics,Vendor_E,41764,130,2024,10
+USA,Chicago,Automobile,Vendor_B,45578,79,2024,7
+India,Mumbai,Electronics,Vendor_A,24110,515,2023,2
+UK,London,Electronics,Vendor_E,18587,736,2023,7
+Japan,Yokohama,Clothing,Vendor_B,31435,917,2023,12
+USA,New York,Clothing,Vendor_C,47270,682,2024,12
+Canada,Toronto,Furniture,Vendor_D,6840,832,2023,11
+India,Delhi,Clothing,Vendor_D,23641,199,2022,9
+UK,Manchester,Clothing,Vendor_A,7858,74,2022,5
+China,Shanghai,Electronics,Vendor_E,17727,424,2023,8
+USA,New York,Automobile,Vendor_A,20585,352,2022,12
+Canada,Toronto,Grocery,Vendor_A,30968,117,2023,8
+Japan,Yokohama,Automobile,Vendor_E,13982,925,2023,1
+India,Delhi,Grocery,Vendor_E,34324,82,2022,9
+USA,New York,Grocery,Vendor_B,40930,404,2024,11
+France,Paris,Furniture,Vendor_D,18380,247,2024,10
+Germany,Hamburg,Electronics,Vendor_B,1153,686,2022,2
+China,Shenzhen,Clothing,Vendor_A,12049,787,2022,12
+USA,New York,Furniture,Vendor_C,24600,567,2023,3
+Canada,Toronto,Grocery,Vendor_E,15141,129,2022,9
+Japan,Osaka,Clothing,Vendor_E,5582,860,2023,4
+UK,London,Furniture,Vendor_B,37953,334,2024,1
+Japan,Tokyo,Automobile,Vendor_D,4010,436,2022,10
+India,Delhi,Grocery,Vendor_A,26739,730,2022,8
+India,Delhi,Automobile,Vendor_D,33559,996,2023,10
+France,Marseille,Automobile,Vendor_A,16613,304,2023,4
+Germany,Munich,Furniture,Vendor_D,8489,512,2023,3
+India,Mumbai,Automobile,Vendor_D,4089,524,2024,6
+China,Shenzhen,Furniture,Vendor_D,24706,565,2024,5
+UK,Birmingham,Automobile,Vendor_C,13479,387,2023,5
+UK,London,Automobile,Vendor_A,37110,387,2022,6
+USA,Los Angeles,Automobile,Vendor_E,28914,422,2023,8
+Brazil,Brasília,Clothing,Vendor_D,1363,119,2023,2
+France,Lyon,Clothing,Vendor_A,47736,963,2023,3
+USA,Chicago,Grocery,Vendor_B,47476,866,2023,5
+Australia,Sydney,Grocery,Vendor_B,3244,19,2023,12
+USA,Los Angeles,Clothing,Vendor_E,28518,652,2022,2
+Canada,Vancouver,Furniture,Vendor_D,45340,740,2023,5
+Germany,Berlin,Clothing,Vendor_D,11492,526,2023,2
+China,Shanghai,Automobile,Vendor_D,10521,478,2024,4
+Canada,Montreal,Electronics,Vendor_A,46465,422,2023,6
+Australia,Melbourne,Clothing,Vendor_A,9433,294,2024,10
+Canada,Toronto,Automobile,Vendor_A,31077,39,2022,11
+India,Mumbai,Grocery,Vendor_D,43281,283,2023,9
+Germany,Hamburg,Clothing,Vendor_B,25600,843,2024,2
+France,Lyon,Automobile,Vendor_A,23785,530,2024,1
+China,Shanghai,Grocery,Vendor_C,21914,882,2022,6
+India,Delhi,Automobile,Vendor_D,17692,906,2024,4
+USA,Chicago,Clothing,Vendor_B,16577,164,2022,8
+France,Lyon,Furniture,Vendor_B,30412,862,2024,10
+UK,Birmingham,Electronics,Vendor_D,22271,546,2022,9
+Canada,Vancouver,Electronics,Vendor_E,12673,414,2023,3
+Brazil,Rio de Janeiro,Furniture,Vendor_B,10465,255,2023,11
+India,Mumbai,Automobile,Vendor_D,14569,639,2022,7
+Japan,Osaka,Grocery,Vendor_D,25904,544,2024,5
+China,Shenzhen,Clothing,Vendor_D,3892,169,2022,2
+Japan,Yokohama,Grocery,Vendor_C,9446,143,2022,6
+USA,Chicago,Grocery,Vendor_B,44964,421,2024,5
+USA,Chicago,Automobile,Vendor_C,34757,189,2024,4
+Canada,Montreal,Automobile,Vendor_B,33152,300,2023,5
+USA,New York,Grocery,Vendor_E,28573,756,2023,12
+Canada,Montreal,Automobile,Vendor_B,1877,226,2022,7
+Japan,Tokyo,Clothing,Vendor_C,43025,422,2022,1
+UK,London,Automobile,Vendor_C,47762,377,2024,6
+China,Beijing,Furniture,Vendor_C,6515,4,2024,2
+Canada,Toronto,Grocery,Vendor_B,27019,101,2024,9
+China,Shanghai,Furniture,Vendor_C,6629,63,2022,7
+India,Mumbai,Grocery,Vendor_E,49552,255,2022,2
+Japan,Tokyo,Clothing,Vendor_B,24718,864,2023,1
+Canada,Montreal,Clothing,Vendor_B,6565,294,2024,6
+Germany,Berlin,Furniture,Vendor_A,1835,199,2024,2
+USA,Chicago,Furniture,Vendor_C,33353,951,2022,12
+Japan,Tokyo,Automobile,Vendor_C,41387,464,2023,12
+Germany,Munich,Electronics,Vendor_B,39523,817,2024,5
+Canada,Montreal,Grocery,Vendor_B,13118,246,2022,4
+UK,London,Automobile,Vendor_A,4057,37,2022,3
+India,Delhi,Grocery,Vendor_D,14779,820,2024,12
+UK,London,Grocery,Vendor_E,15017,325,2024,10
+Japan,Tokyo,Automobile,Vendor_E,45921,394,2023,6
+Brazil,São Paulo,Electronics,Vendor_D,18264,743,2023,5
+China,Beijing,Electronics,Vendor_A,46124,58,2022,4
+Canada,Vancouver,Furniture,Vendor_C,37323,306,2022,8
+USA,Los Angeles,Automobile,Vendor_C,21400,804,2023,12
+Japan,Yokohama,Electronics,Vendor_A,14382,954,2024,5
+Canada,Vancouver,Grocery,Vendor_D,11725,694,2022,12
+China,Beijing,Clothing,Vendor_A,6724,19,2022,1
+Brazil,Rio de Janeiro,Automobile,Vendor_C,30416,552,2024,9
+Australia,Sydney,Grocery,Vendor_D,28307,109,2023,5
+Canada,Montreal,Furniture,Vendor_E,32692,497,2024,9
+USA,New York,Clothing,Vendor_C,23738,504,2024,6
+Japan,Osaka,Furniture,Vendor_D,36144,17,2024,2
+Germany,Munich,Electronics,Vendor_E,22969,373,2023,11
+UK,London,Grocery,Vendor_E,39885,921,2022,12
+Germany,Berlin,Electronics,Vendor_D,42266,664,2023,5
+India,Delhi,Electronics,Vendor_C,47289,529,2023,8
+Brazil,Brasília,Electronics,Vendor_A,20790,288,2022,12
+Canada,Toronto,Furniture,Vendor_C,37160,725,2022,1
+Japan,Yokohama,Furniture,Vendor_C,46158,892,2023,2
+India,Bengaluru,Electronics,Vendor_E,30777,428,2023,2
+UK,Manchester,Grocery,Vendor_C,40422,393,2024,9
+Canada,Montreal,Furniture,Vendor_C,39285,732,2023,4
+UK,London,Grocery,Vendor_D,19625,235,2023,6
+UK,London,Grocery,Vendor_A,15336,135,2022,12
+Japan,Tokyo,Grocery,Vendor_B,28433,358,2024,2
+India,Delhi,Grocery,Vendor_B,3064,196,2024,9
+Brazil,Brasília,Clothing,Vendor_B,29716,314,2024,2
+Australia,Melbourne,Automobile,Vendor_B,31111,963,2024,6
+Australia,Melbourne,Furniture,Vendor_C,17892,332,2022,1
+UK,London,Clothing,Vendor_D,41166,600,2022,4
+Australia,Brisbane,Automobile,Vendor_B,29552,731,2022,3
+China,Shanghai,Grocery,Vendor_C,47562,259,2022,5
+Canada,Vancouver,Furniture,Vendor_D,46528,296,2022,4
+Australia,Sydney,Grocery,Vendor_A,34122,849,2022,2
+France,Paris,Grocery,Vendor_B,14107,348,2024,11
+Japan,Osaka,Furniture,Vendor_C,9418,444,2023,12
+Canada,Toronto,Grocery,Vendor_E,11024,825,2022,12
+Canada,Vancouver,Electronics,Vendor_A,4407,640,2022,3
+Brazil,São Paulo,Clothing,Vendor_C,11109,839,2022,8
+Japan,Osaka,Grocery,Vendor_B,8746,712,2024,11
+UK,London,Clothing,Vendor_A,44454,416,2022,2
+India,Mumbai,Grocery,Vendor_A,48498,326,2022,7
+Australia,Melbourne,Clothing,Vendor_D,20790,764,2022,8
+China,Beijing,Grocery,Vendor_A,21245,626,2024,5
+UK,Manchester,Automobile,Vendor_E,8645,755,2024,10
+Japan,Yokohama,Grocery,Vendor_B,25662,225,2023,6
+Brazil,Rio de Janeiro,Grocery,Vendor_B,27973,909,2022,11
+China,Shenzhen,Grocery,Vendor_E,20091,792,2022,11
+Japan,Tokyo,Furniture,Vendor_B,11367,519,2023,5
+Australia,Sydney,Grocery,Vendor_B,37404,911,2023,3
+France,Paris,Automobile,Vendor_B,19610,39,2023,3
+Canada,Toronto,Grocery,Vendor_C,7240,870,2023,11
+USA,New York,Clothing,Vendor_C,49291,971,2024,2
+USA,Chicago,Furniture,Vendor_C,44678,412,2024,1
+France,Marseille,Grocery,Vendor_C,11942,51,2023,2
+Japan,Tokyo,Electronics,Vendor_B,2211,230,2022,10
+India,Delhi,Automobile,Vendor_A,20950,838,2022,3
+Japan,Tokyo,Clothing,Vendor_E,15292,346,2023,12
