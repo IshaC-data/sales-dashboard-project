@@ -33,11 +33,7 @@ sales-forecasting-project/
 │
 ├── data/
 │   └── sales_data.csv
-│
+│----Products shipped Across the gloab.twbx
 ├── images/
 │   └── forecast.png
-│
-├── notebook/
-│   └── sales_forecasting.ipynb
-│
 ├── README.md
